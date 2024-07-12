@@ -87,7 +87,8 @@ streamlit run app.py
 
 __This is how our Streamlit Application looks:__
 
-![streamlitapp page](/images/app_1.jpg)
+![image](https://github.com/user-attachments/assets/931f096c-d3d8-4a9b-94d0-4253a36b82f9)
+
 "# insurance-prediction" 
 "# insurance-prediction" 
 "# insurance-prediction" 
